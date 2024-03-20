@@ -1,0 +1,13 @@
+{
+    "name": "Comptabilite",
+    "alias": "comptabilite",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Comptabilite\\Providers\\ComptabiliteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+      "libelle": "COMPTES DE RESSOURCES DURABLES",
+      "num": "1"
+  },
+  {
+      "libelle": "COMPTES D'ACTIF IMMOBILISE",
+      "num": "2"
+  },
+  {
+      "libelle": "COMPTES DE STOCKS",
+      "num": "3"
+  },
+  {
+      "libelle": "COMPTES DE TIERS",
+      "num": "4"
+  },
+  {
+      "libelle": "COMPTES DE TRÉSORERIE",
+      "num": "5"
+  },
+  {
+      "libelle": "COMPTES DE CHARGES DES ACTIVITES ORDINAIRES",
+      "num": "6"
+  },
+  {
+      "libelle": "COMPTES DES PRODUITS DES ACTIVITES ORDINAIRES",
+      "num": "7"
+  },
+  {
+      "libelle": "COMPTES DES AUTRES CHARGES ET AUTRES PRODUITS",
+      "num": "8"
+  },
+  {
+      "libelle": "COMPTES DES ENGAGEMENTS HORS BILAN ET COMPTE DE LA COMPTABILITE",
+      "num": "9"
+  }
+]

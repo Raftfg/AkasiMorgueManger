@@ -1,0 +1,8 @@
+{
+    "Comptabilite": true,
+    "Acl": true,
+    "Dashboard": true,
+    "Notifier": true,
+    "Tracking": true,
+    "Document": true
+}

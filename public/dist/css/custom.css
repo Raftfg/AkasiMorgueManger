@@ -1,0 +1,116 @@
+.action {
+    width: 31px;
+}
+
+.table td, .table th {
+    padding: 0.5rem 0.75rem;
+    vertical-align: middle;
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #28a745;
+    color: #fff;
+}
+
+[class*=sidebar-dark-] .nav-sidebar>.nav-item.menu-open>.nav-link, [class*=sidebar-dark-] .nav-sidebar>.nav-item:hover>.nav-link, [class*=sidebar-dark-] .nav-sidebar>.nav-item>.nav-link:focus {
+    background-color: rgba(40,167,69,.4);
+    color: #fff;
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:focus, [class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:hover {
+    background-color: rgba(40,167,69,.4);
+    color: #fff;
+}
+
+.float-end {
+    float: right !important;
+}
+
+.float-start {
+    float: left !important;
+}
+
+.modal-header, .modal-body, .modal-footer {
+    padding: 0.5rem 1rem;
+}
+
+.modal-content {
+    border: none;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #6c757d;
+}
+
+.page-item.active .page-link {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.fa-exclamation-triangle {
+    font-size: 100px;
+    color: #dc3545;
+    margin-bottom: 5%;
+}
+
+a:hover {
+    color: #228939;
+}
+
+a {
+    color: #28a745;
+}
+
+.brand-icon {
+    float: left;
+    line-height: .8;
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+    font-size: xx-large;
+    max-height: 33px;
+    width: auto;
+}
+
+.log-brand-link {
+    display: block;
+    font-size: 1.75rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0.8125rem 0.5rem;
+    transition: width .3s ease-in-out;
+    white-space: nowrap;
+    background-color: #fff;
+}
+
+.no-left {
+    float: none !important;
+}
+
+[class*=sidebar-dark] .brand-link .pushmenu:hover, [class*=sidebar-dark] .brand-link:hover {
+    color: #fff !important;
+}
+
+.bg-danger .close, .bg-info .close, .bg-success .close, .bg-primary .close, .bg-secondary .close {
+    color: #fff !important;
+}
+
+.close {    
+    text-shadow: none !important;
+    opacity: 1 !important;
+}
+
+.logout {
+    margin-top: 15px; 
+    color: #fff !important;   
+    background-color: rgba(219, 56, 72, 0.7);
+    border-radius: 5px;
+}
+
+[class*=sidebar-dark-] .nav-sidebar>.nav-item:hover>.logout, [class*=sidebar-dark-] .nav-sidebar>.nav-item>.logout:focus {
+    background-color: #dc3545;
+    color: #fff;
+}
